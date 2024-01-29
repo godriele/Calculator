@@ -1,0 +1,22 @@
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header { 
+    background-color: rgb(52, 52, 232);
+    color: rgb(250, 247, 247);
+    text-align: center;
+    padding: 1rem;
+    margin: 0;
+}
+
+body {
+     margin: 0;
+}
+
+.blue-block {
+    background-color: rgb(67, 112, 234);
+    padding: 1rem;
+    text-align: center;
+} 
